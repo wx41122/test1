@@ -16,7 +16,30 @@ namespace gitTest1
         {
             InitializeComponent();
             textBoxX1.Show();
-            textBoxX2.Show();//branch11111111111111111111111111111
+            textBoxX2.Show();
         }
+
+
+
+
+
+
+
+
+
+        public string Test2222()
+        {
+            //branch11111111111111111111111111111
+            string a = "232131";
+            int b = 3;
+            return "@u";
+
+
+
+
+        }
+
+
+
     }
 }
