@@ -15,7 +15,7 @@ namespace gitTest1
         public Form2()
         {
             InitializeComponent();
-            textBoxX1.Show();
+            textBoxX1.Show();//branch2222222222222222
             textBoxX2.Show();
         }
     }
